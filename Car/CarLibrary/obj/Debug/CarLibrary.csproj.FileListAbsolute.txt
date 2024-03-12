@@ -1,0 +1,12 @@
+C:\Users\vitmeroa\source\repos\Car\CarLibrary\obj\Debug\CarLibrary.csproj.AssemblyReference.cache
+C:\Users\vitmeroa\source\repos\Car\CarLibrary\obj\Debug\CarLibrary.csproj.CoreCompileInputs.cache
+C:\Users\vitmeroa\source\repos\Car\CarLibrary\bin\Debug\CarLibrary.dll
+C:\Users\vitmeroa\source\repos\Car\CarLibrary\bin\Debug\CarLibrary.pdb
+C:\Users\vitmeroa\source\repos\Car\CarLibrary\obj\Debug\CarLibrary.dll
+C:\Users\vitmeroa\source\repos\Car\CarLibrary\obj\Debug\CarLibrary.pdb
+C:\Users\violy\source\repos\Car\CarLibrary\bin\Debug\CarLibrary.dll
+C:\Users\violy\source\repos\Car\CarLibrary\bin\Debug\CarLibrary.pdb
+C:\Users\violy\source\repos\Car\CarLibrary\obj\Debug\CarLibrary.csproj.AssemblyReference.cache
+C:\Users\violy\source\repos\Car\CarLibrary\obj\Debug\CarLibrary.csproj.CoreCompileInputs.cache
+C:\Users\violy\source\repos\Car\CarLibrary\obj\Debug\CarLibrary.dll
+C:\Users\violy\source\repos\Car\CarLibrary\obj\Debug\CarLibrary.pdb
